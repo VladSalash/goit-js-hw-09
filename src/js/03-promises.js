@@ -43,5 +43,4 @@ function createPromise(position, delay) {
 //   .catch(({ position, delay }) => {
 //     console.log(`❌ Rejected promise ${position} in ${delay}ms`);
 //     Notify.failure(`❌ Rejected promise ${position} in ${delay}ms`);
-
 //   });
